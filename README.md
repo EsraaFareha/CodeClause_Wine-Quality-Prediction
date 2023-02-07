@@ -1,2 +1,2 @@
-# CodeClause_WineQualityPrediction
+# CodeClause_WineQualityPrediction! [WhatsApp Image 2023-02-08 at 12 36 32 AM](https://user-images.githubusercontent.com/112290483/217382509-5f188b38-0fc6-4520-af78-789c6c1daf3a.jpeg)
 when it comes to shopping for a wine bottle, a few of us get confused about which is the best one to buy. Few believe that the longer it has fermented, the better it'll taste. Few suggest relatively sweeter wines are good quality wines.
